@@ -1,6 +1,8 @@
 # simple_neural_network
 Neural Network Implementation using Make your Own Neural Network book https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G
 
+# Accuracy of 97.27%
+
 It has two versions without using pandas library to pre-process MNIST data (as in the book, using only numpy) and other one using pandas(just of learning & experementation). *The implementtation with pandas was found to be almost 4 times slower than using only numpy!*
 
 Complete MNIST Data Set used from:
